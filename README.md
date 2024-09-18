@@ -1,5 +1,7 @@
 Name: Fatimah Alabdi
+
 Phone Number: 0560608904
+
 Email: fatimahalabdi22@gmail.com
 
 Linkedin: https://www.linkedin.com/in/fatimah-alabdi-9631a1211/: 
