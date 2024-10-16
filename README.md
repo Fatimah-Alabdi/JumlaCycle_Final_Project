@@ -6,7 +6,7 @@ Email: fatimahalabdi22@gmail.com
 
 Linkedin: https://www.linkedin.com/in/fatimah-alabdi-9631a1211/: 
 
-Figma: https://www.figma.com/design/nNNGhTMIvFlT8xtPiU88oR/JumlaCycle?node-id=0-1&node-type=canvas&t=qiMcDpWnPrpH5chq-0
+Figma: https:https://www.figma.com/design/nNNGhTMIvFlT8xtPiU88oR/JumlaCycle?node-id=0-1&t=1125Vhoj34ONnqaW-1
 
 Postman Documentation: https://documenter.getpostman.com/view/35088433/2sAXqqdNor
 
